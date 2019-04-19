@@ -1,0 +1,10 @@
+name: MWarps
+author: Maner_
+version: 1.0.0
+main: fr.maner.mwarps.MWarps
+api-version: 1.13
+depend: [Essentials]
+commands:
+  mwarps:
+    description: Command mwarps
+    aliases: [warp]
