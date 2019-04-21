@@ -1,8 +1,8 @@
 # Olympigs - MWarps
 ## Introduction
-Plugin crée pour le Projet Olympigs réalisé par [**Nems**](https://twitter.com/Nems_Mt)  
-Permet d'avoir un menu visuel de la liste des warps, de pouvoir s'y téléporter  
-La liste des warps est récupérée depuis le plugin Essentials  
+Plugin crée à l'ocassion du Projet Olympigs organisé par [**Nems**](https://twitter.com/Nems_Mt)  
+Il permet d'avoir un menu visuel de la liste des warps et de pouvoir s'y téléporter rapidement  
+La liste des warps est récupérée depuis le plugin Essentials *(dépendance)*  
 Il permet aux joueurs d'éditer le visuel (Item/Nom/Lores) qui représente leur warp dans le menu
 
 ## Commandes
